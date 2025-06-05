@@ -1,0 +1,26 @@
+
+Requisição HTTP
+
+URL: https://pokeapi.co/api/v2/pokemon
+     ${IP = Endereço}/${path = caminho de identificação do recurso}
+
+IP: https://pokeapi.co
+
+/api/v2/pokemon
+
+Request Method: GET | POST | PUT | DELETE | PATCH
+
+https://pokeapi.co/api/v2/pokemon?offset=20&limit=20
+offset=20
+limit=20
+
+REQUEST HEADERS
+
+REQUEST BODY
+
+STATUS CODE: 200 OK
+
+RESPONSE HEADERS
+
+RESPONSE BODY
+
